@@ -83,7 +83,7 @@
       "jawaban": "NUSA TENGGARA TIMUR"
     },
     {
-      "index': 17,
+      "index": 17,
       "soal": "Sungai Kapuas, suku Dayak.",
       "jawaban": "KALIMANTAN BARAT"
     },
@@ -103,91 +103,94 @@
       "jawaban": "KALIMANTAN TIMUR"
     },
     {
-      index: 21, soal: 'Perbatasan dengan Malaysia, keanekaragaman hayati.',
-      jawaban: 'KALIMANTAN UTARA'
+      "index": 21, 
+      "soal": "Perbatasan dengan Malaysia, keanekaragaman hayati.",
+      "jawaban": "KALIMANTAN UTARA"
     },
     {
-      index: 22,
-      soal: 'Bunaken, budaya Minahasa.',
-      jawaban: 'SULAWESI UTARA'
+      "index": 22,
+      "soal": "Bunaken, budaya Minahasa.",
+      "jawaban": "SULAWESI UTARA"
     },
     {
-      index: 23,
-      soal: 'Taman Nasional Lore Lindu, suku Kaili.',
-      jawaban: 'SULAWESI TENGAH'
+      "index": 23,
+      "soal": "Taman Nasional Lore Lindu, suku Kaili.",
+      "jawaban": "SULAWESI TENGAH"
     },
     {
-      index: 24,
-      soal: 'Toraja dan adatnya, makanan khas seperti Coto Makassar.',
-      jawaban: 'SULAWESI SELATAN'
+      "index": 24,
+      "soal": "Toraja dan adatnya, makanan khas seperti Coto Makassar.",
+      "jawaban": "SULAWESI SELATAN"
     },
     {
-      index: 25,
-      soal: 'Pulau Wakatobi, budaya Buton.',
-      jawaban: 'SULAWESI TENGGARA'
+      "index": 25,
+      "soal": "Pulau Wakatobi, budaya Buton.",
+      "jawaban": "SULAWESI TENGGARA"
     },
     {
-      index: 26,
-      soal: 'Budaya lokal yang unik, pantai yang indah.',
-      jawaban: 'GORONTALO'
+      "index": 26,
+      "soal": "Budaya lokal yang unik, pantai yang indah.",
+      "jawaban": "GORONTALO"
     },
     {
-      index: 27,
-      soal: 'Rempah-rempah, keindahan alam.',
-      jawaban: 'MALUKU'
+      "index": 27,
+      "soal": "Rempah-rempah, keindahan alam.",
+      "jawaban": "MALUKU"
     },
     {
-      index: 28,
-      soal: 'Pulau-pulau kecil, budaya yang beragam.',
-      jawaban: 'MALUKU UTARA'
+      "index": 28,
+      "soal": "Pulau-pulau kecil, budaya yang beragam.",
+      "jawaban": "MALUKU UTARA"
     },
     {
-      index: 29,
-      soal: 'Budaya suku asli, keindahan alam pegunungan.',
-      jawaban: 'PAPUA'
+      "index": 29,
+      "soal": "Budaya suku asli, keindahan alam pegunungan.",
+      "jawaban': "PAPUA"
     },
     {
-      index: 30,
-      soal: 'Raja Ampat, keanekaragaman hayati.',
-      jawaban: 'PAPUA BARAT'
+      "index": 30,
+      "soal": "Raja Ampat, keanekaragaman hayati.",
+      "jawaban": "PAPUA BARAT"
     },
     {
-      index: 31,
-      soal: 'Pantai Anyer, budaya Betawi.',
-      jawaban: 'BANTEN'
+      "index": 31,
+      "soal": "Pantai Anyer, budaya Betawi.",
+      "jawaban": "BANTEN"
     },
     {
-      index: 32,
-      soal: 'Makanan khas seperti Rujak Cingur, Gunung Semeru.',
-      jawaban: 'JAWA TIMUR'
+      "index": 32,
+      "soal": "Makanan khas seperti Rujak Cingur, Gunung Semeru.",
+      "jawaban": "JAWA TIMUR"
     },
     {
-      index: 33,
-      soal: 'Festival budaya, seni tari tradisional.',
-      jawaban: 'BALI'
+      "index": 33,
+      "soal": "Festival budaya, seni tari tradisional.",
+      "jawaban": "BALI"
     },
     {
-      index: 34,
-      soal: 'Pulau Komodo, kerajinan tenun.',
-      jawaban: 'NUSA TENGGARA TIMUR'
+      "index": 34,
+      "soal": "Pulau Komodo, kerajinan tenun.",
+      "jawaban": "NUSA TENGGARA TIMUR"
     },
     { 
-      index: 35, soal: 'Hutan tropis, keragaman etnis.', 
-      jawaban: 'KALIMANTAN BARAT'
+      "index": 35, 
+      "soal": "Hutan tropis, keragaman etnis.", 
+      "jawaban": "KALIMANTAN BARAT"
     },
     {
-      index: 36,
-      soal: 'Hutan hujan, suku asli.',
-      jawaban: 'KALIMANTAN TENGAH'
+      "index": 36,
+      "soal": "Hutan hujan, suku asli.",
+      "jawaban": "KALIMANTAN TENGAH"
     },
     { 
-      index: 37, soal: 'Pasar terapung, budaya Banjar.',
-      jawaban: 'KALIMANTAN SELATAN'
+      "index": 37, 
+      "soal": "Pasar terapung, budaya Banjar.",
+      "jawaban": "KALIMANTAN SELATAN"
     },
     {
-      index: 38,
-      soal: 'Perbatasan dengan Malaysia, hutan lebat.',
-      jawaban: 'KALIMANTAN UTARA'
+      "index": 38,
+      "soal": "Perbatasan dengan Malaysia, hutan lebat.",
+      "jawaban": "KALIMANTAN UTARA"
     }
   ]
 }

@@ -1,100 +1,106 @@
 {
-  creator: 'Zidan.',
-  total_soal: 38,
-  result: [
+  "creator": "Zidan.",
+  "total_soal": 38,
+  "result": [
     {
-      index: 1,
-      soal: 'Budaya Islam yang kental, kopi Aceh yang terkenal.',
-      jawaban: 'ACEH'
+      "index": 1,
+      "soal": "Budaya Islam yang kental, kopi Aceh yang terkenal.",
+      "jawaban": "ACEH"
     },
     {
-      index: 2,
-      soal: 'Danau Toba, suku Batak, dan makanan khas seperti Bika Ambon.',
-      jawaban: 'SUMATERA UTARA'
+      "index": 2,
+      "soal": "Danau Toba, suku Batak, dan makanan khas seperti Bika Ambon.",
+      "jawaban": "SUMATERA UTARA"
     },
     {
-      index: 3,
-      soal: 'Rumah adat Minangkabau, masakan Padang yang pedas.',
-      jawaban: 'SUMATERA BARAT'
+      "index": 3,
+      "soal": "Rumah adat Minangkabau, masakan Padang yang pedas.",
+      "jawaban": "SUMATERA BARAT"
     },
     {
-      index: 4,
-      soal: 'Kebun kelapa sawit, budaya Melayu.',
-      jawaban: 'RIAU'
+      "index": 4,
+      "soal": "Kebun kelapa sawit, budaya Melayu.",
+      "jawaban": "RIAU"
     },
     {
-      index: 5,
-      soal: 'Pantai panjang, budaya Rejang.',
-      jawaban: 'BENGKULU'
+      "index": 5,
+      "soal": "Pantai panjang, budaya Rejang.",
+      "jawaban": "BENGKULU"
     },
-    { index: 6, soal: 'Palembang dan pempek, Sungai Musi.', 
-      jawaban: 'SUMATERA SELATAN' },
-    {
-      index: 7,
-      soal: 'Candi Muaro Jambi, kebudayaan Melayu.',
-      jawaban: 'JAMBI'
+    { 
+      "index": 6, 
+      "soal": "Palembang dan pempek, Sungai Musi.", 
+      "jawaban": "SUMATERA SELATAN"
     },
     {
-      index: 8,
-      soal: 'Way Kambas, kopi robusta.',
-      jawaban: 'LAMPUNG'
-    },
-    { index: 9, soal: 'Ibu kota negara, pusat bisnis dan budaya.',
-      jawaban: 'DKI JAKARTA' 
+      "index": 7,
+      "soal": "Candi Muaro Jambi, kebudayaan Melayu.",
+      "jawaban": "JAMBI"
     },
     {
-      index: 10,
-      soal: 'Bahasa Sunda, wisata alam seperti Gunung Tangkuban Perahu.',
-      jawaban: 'JAWA BARAT'
+      "index": 8,
+      "soal": "Way Kambas, kopi robusta.",
+      "jawaban": "LAMPUNG"
+    },
+    { 
+      "index": 9, 
+      "soal": "Ibu kota negara, pusat bisnis dan budaya.",
+      "jawaban": "DKI JAKARTA"
     },
     {
-      index: 11,
-      soal: 'Candi Borobudur, batik dan budaya Jawa.',
-      jawaban: 'JAWA TENGAH'
+      "index": 10,
+      "soal": "Bahasa Sunda, wisata alam seperti Gunung Tangkuban Perahu.",
+      "jawaban": "JAWA BARAT"
     },
     {
-      index: 12,
-      soal: 'Keraton Yogyakarta, budaya Jawa yang kental.',
-      jawaban: 'DI YOGYAKARTA'
+      "index": 11,
+      "soal": "Candi Borobudur, batik dan budaya Jawa.",
+      "jawaban": "JAWA TENGAH"
     },
     {
-      index: 13, soal: 'Gunung Bromo, makanan khas seperti Rawon.',
-      jawaban: 'JAWA TIMUR'
+      "index": 12,
+      "soal": "Keraton Yogyakarta, budaya Jawa yang kental.",
+      "jawaban": "DI YOGYAKARTA"
     },
     {
-      index: 14,
-      soal: 'Budaya Hindu, pantai-pantai indah.',
-      jawaban: 'BALI'
+      "index": 13, 
+      "soal": "Gunung Bromo, makanan khas seperti Rawon.",
+      "jawaban": "JAWA TIMUR"
     },
     {
-      index: 15,
-      soal: 'Pulau Lombok, tenun ikat.',
-      jawaban: 'NUSA TENGGARA BARAT'
+      "index": 14,
+      "soal": "Budaya Hindu, pantai-pantai indah.",
+      "jawaban": "BALI"
     },
     {
-      index: 16,
-      soal: 'Pulau Flores, kebudayaan yang beragam.',
-      jawaban: 'NUSA TENGGARA TIMUR'
+      "index": 15,
+      "soal": "Pulau Lombok, tenun ikat.",
+      "jawaban": "NUSA TENGGARA BARAT"
     },
     {
-      index: 17,
-      soal: 'Sungai Kapuas, suku Dayak.',
-      jawaban: 'KALIMANTAN BARAT'
+      "index": 16,
+      "soal": "Pulau Flores, kebudayaan yang beragam.",
+      "jawaban": "NUSA TENGGARA TIMUR"
     },
     {
-      index: 18,
-      soal: 'Hutan hujan tropis, suku Dayak Ngaju.',
-      jawaban: 'KALIMANTAN TENGAH'
+      "index': 17,
+      "soal": "Sungai Kapuas, suku Dayak.",
+      "jawaban": "KALIMANTAN BARAT"
     },
     {
-      index: 19,
-      soal: 'Sungai Barito, pasar terapung.',
-      jawaban: 'KALIMANTAN SELATAN'
+      "index": 18,
+      "soal": "Hutan hujan tropis, suku Dayak Ngaju.",
+      "jawaban": "KALIMANTAN TENGAH"
     },
     {
-      index: 20,
-      soal: 'Ibu kota baru di Nusantara, hutan dan tambang.',
-      jawaban: 'KALIMANTAN TIMUR'
+      "index": 19,
+      "soal": "Sungai Barito, pasar terapung.",
+      "jawaban": "KALIMANTAN SELATAN"
+    },
+    {
+      "index": 20,
+      "soal": "Ibu kota baru di Nusantara, hutan dan tambang.",
+      "jawaban": "KALIMANTAN TIMUR"
     },
     {
       index: 21, soal: 'Perbatasan dengan Malaysia, keanekaragaman hayati.',

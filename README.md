@@ -1,14 +1,9 @@
 DATABASE ANYA BOT
+- CREATOR : ZIDAN STORE
+- WHATSAPP : https://wa.me/62895354291993
+- IG : @zidanstoreofficial
+- TIKTOK : @zidanstoreofficial
+- YOUTUBE : @ZidanStoreOfficial
 
-CREATOR : ZIDAN STORE
-
-WHATSAPP : https://wa.me/62895354291993
-
-IG : @zidanstoreofficial
-
-TIKTOK : @zidanstoreofficial
-
-YOUTUBE : @ZidanStoreOfficial
-
-Hak Cipta Zidan Store
+© Copyright Zidan Store Developement
 

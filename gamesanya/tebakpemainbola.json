@@ -1,0 +1,196 @@
+{
+  "creator": "Zidan.",
+  "total_soal": 38,
+  "result": [
+    {
+      "index": 1,
+      "soal": "Siapa pencetak hat-trick tercepat di Liga Primer?.",
+      "jawaban": "SADIO MANE"
+    },
+    {
+      "index": 2,
+      "soal": "Siapa kolektor penampilan terbanyak di Liga Primer dengan 653 laga?.",
+      "jawaban": "GARETH BARRY"
+    },
+    {
+      "index": 3,
+      "soal": "Dengan 260 gol, siapa topskor sepanjang masa Liga Primer.",
+      "jawaban": "MANCHESTER UNITED"
+    },
+    {
+      "index": 4,
+      "soal": "Siapa kiper pemilik rekor clean sheet terbanyak di Liga Primer (202)?.",
+      "jawaban": "PETR CECH"
+    },
+    {
+      "index": 5,
+      "soal": "Berapa banyak klub peserta di musim perdana Liga Primer?.",
+      "jawaban": "22"
+    },
+    { 
+      "index": 6, 
+      "soal": "Gol tercepat dalam sejarah Liga Primer lahir hanya 7,69 detik setelah kick-off. Siapa pencetaknya?.", 
+      "jawaban": "SHANE LONG"
+    },
+    {
+      "index": 7,
+      "soal": "Negara mana yang menjuarai Piala Dunia pertama pada 1930?.",
+      "jawaban": "URUGUAY"
+    },
+    {
+      "index": 8,
+      "soal": "Negara mana yang paling banyak menjuarai Piala Dunia?.",
+      "jawaban": "BRASIL", "BRAZIL"
+    },
+    { 
+      "index": 9, 
+      "soal": "Negara mana yang telah tiga kali menembus final Piala Dunia tapi tak pernah juara?.",
+      "jawaban": "BELANDA"
+    },
+    {
+      "index": 10,
+      "soal": "Ada dua pemain Inggris yang pernah meraih Sepatu Emas Piala Dunia. Siapa saja?.",
+      "jawaban": "GARY LINEKER", "HARRY KANE"
+    },
+    {
+      "index": 11,
+      "soal": "Siapa pencetak gol terbanyak sepanjang sejarah Piala Dunia dengan jumlah 16?.",
+      "jawaban": "MIROSLAV KLOSE"
+    },
+    {
+      "index": 12,
+      "soal": "Klub mana yang paling banyak menjuarai Liga Champions?.",
+      "jawaban": "REAL MADRID"
+    },
+    {
+      "index": 13, 
+      "soal": "Siapa pemain outfield yang tampil di final Liga Champions dalam tiga dekade berbeda?.",
+      "jawaban": "RYAN GIGGS"
+    },
+    {
+      "index": 14,
+      "soal": "Siapa topskor sepanjang masa Liga Champions?.",
+      "jawaban": "CRISTIANO RONALDO"
+    },
+    {
+      "index": 15,
+      "soal": "Siapa tim pertama asal Britania Raya yang menjuarai Liga Champions?.",
+      "jawaban": "CELTIC"
+    },
+    {
+      "index": 16,
+      "soal": "Tahun berapa turnamen pertama Euro digelar?.",
+      "jawaban": "1960"
+    },
+    {
+      "index": 17,
+      "soal": "Siapa dua tim tersukses di Euro dengan sama-sama mengoleksi tiga gelar juara?.",
+      "jawaban": "JERMAN", "SPANYOL"
+    },
+    {
+      "index": 18,
+      "soal": "Final Euro 2000 antara Prancis dan Italia ditentukan Gol Emas. Siapa pencetak gol tersebut?.",
+      "jawaban": "DAVID TREZEGUET"
+    },
+    {
+      "index": 19,
+      "soal": "Denmark berhasil menjuarai Euro 92 meski awalnya tidak lolos kualifikasi. Tim mana yang mereka gantikan?.",
+      "jawaban": "YUGOSLAVIA"
+    },
+    {
+      "index": 20,
+      "soal": "Hanya ada satu orang yang pernah menjuarai Euro sebagai pemain dan pelatih. Siapa dia?.",
+      "jawaban": "BERTI VOGTS"
+    },
+    {
+      "index": 21, 
+      "soal": "Siapa topskor sepanjang masa Inggris di Euro dengan torehan tujuh gol?.",
+      "jawaban": "ALAN SHEARER"
+    },
+    {
+      "index": 22,
+      "soal": "Siapa topskor sepanjang masa Bundesliga dengan 365 gol?.",
+      "jawaban": "GERD MULLER"
+    },
+    {
+      "index": 23,
+      "soal": "Sebutkan julukan Borussia Monchengladbach!.",
+      "jawaban": "DIE FOHLEN"
+    },
+    {
+      "index": 24,
+      "soal": "Binatang apa yang terpampang di logo klub FC Koln?.",
+      "jawaban": "KAMBING"
+    },
+    {
+      "index": 25,
+      "soal": "Manchester United identik dengan merah, tapi apa warna jersey mereka sebelum beralih mengenakan merah?.",
+      "jawaban": "HIJAU", "EMAS"
+    },
+    {
+      "index": 26,
+      "soal": "Klub mana yang disebut 'Galacticos'?.",
+      "jawaban": "REAL MADRID"
+    },
+    {
+      "index": 27,
+      "soal": "Dalam video game FIFA 20, Piemonte Calcio merepresentasikan klub mana di kehidupan nyata?.",
+      "jawaban": "JUVENTUS"
+    },
+    {
+      "index": 28,
+      "soal": "Setelah Juventus, AC Milan, dan Inter, tim mana yang menempati peringkat keempat raihan Scudetto terbanyak dengan sembilan gelar juara Serie A?.",
+      "jawaban": "GENOA"
+    },
+    {
+      "index": 29,
+      "soal": "Apa nama tim MLS yang dimiliki David Beckham?.",
+      "jawaban": "INTER MIAMI"
+    },
+    {
+      "index": 30,
+      "soal": "Klub mana yang memiliki julukan FC Hollywood?.",
+      "jawaban": "BAYERN MUNICH"
+    },
+    {
+      "index": 31,
+      "soal": "Saya pelatih pertama yang menunjuk David Beckham sebagai kapten Inggris..",
+      "jawaban": "PETER TAYLOR"
+    },
+    {
+      "index": 32,
+      "soal": "Saya pernah mengenakan nomor punggung 7, 17, 28, dan 9 dalam karier saya, dan saya bermain di Inggris, Spanyol, Italia, dan Portugal.",
+      "jawaban": "CRISTIANO RONALDO"
+    },
+    {
+      "index": 33,
+      "soal": "Apa julukan untuk RB Leipzig?.",
+      "jawaban": "DIE ROTEN BULLEN"
+    },
+    {
+      "index": 34,
+      "soal": "Mana di antara tiga tim berikut yang belum pernah menjuarai Euro: Denmark, Belgia, atau Yunani?.",
+      "jawaban": "BELGIUM"
+    },
+    { 
+      "index": 35, 
+      "soal": "Tahun berapa Euro menambah jumlah peserta dari 16 jadi 24 tim?.", 
+      "jawaban": "2016"
+    },
+    {
+      "index": 36,
+      "soal": "Siapa pemain yang paling banyak jadi juara Liga Champions?.",
+      "jawaban": "FRANCISCO GENTO"
+    },
+    { 
+      "index": 37, 
+      "soal": "Hanya ada satu klub Rumania yang pernah menjuarai Liga Champions. Siapa mereka?.",
+      "jawaban": "STEAUA BUCHAREST"
+    },
+    {
+      "index": 38,
+      "soal": "Apa nama pulau di Portugal tempat asal Ronaldo?.",
+      "jawaban": "MADEIRA"
+    }
+  ]
+}

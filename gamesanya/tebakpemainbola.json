@@ -40,7 +40,7 @@
     {
       "index": 8,
       "soal": "Negara mana yang paling banyak menjuarai Piala Dunia?.",
-      "jawaban": "BRASIL", "BRAZIL"
+      "jawaban": "BRASIL"
     },
     { 
       "index": 9, 
@@ -84,8 +84,8 @@
     },
     {
       "index": 17,
-      "soal": "Siapa dua tim tersukses di Euro dengan sama-sama mengoleksi tiga gelar juara?.",
-      "jawaban": "JERMAN", "SPANYOL"
+      "soal": "Siapa tim tersukses di Euro dengan sama-sama mengoleksi tiga gelar juara?.",
+      "jawaban": "JERMAN"
     },
     {
       "index": 18,
@@ -125,7 +125,7 @@
     {
       "index": 25,
       "soal": "Manchester United identik dengan merah, tapi apa warna jersey mereka sebelum beralih mengenakan merah?.",
-      "jawaban": "HIJAU", "EMAS"
+      "jawaban": "HIJAU"
     },
     {
       "index": 26,

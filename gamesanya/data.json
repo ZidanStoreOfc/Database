@@ -3,13 +3,10 @@
     {
       "username": "ZidanDev",
       "password": "Zidan"
-    },
-    {
-      "username": "ZidanDev2",
-      "password": "Tes"
     }
   ],
   "blacklist": [
-    ""
+    "",
+    "ZidanDev"
   ]
 }

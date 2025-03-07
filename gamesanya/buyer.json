@@ -1,0 +1,41 @@
+{
+  "developer": "ZidanDev",
+  "number": "62895354291993",
+  "information": [
+  {
+    "code": "F.U",
+    "meaning": "Free Update"
+  },
+  {
+    "code": "N.F.U",
+    "meaning": "No Free Update"
+  },
+  {
+    "code": "A.F",
+    "meaning": "Additional Features"
+  },
+  {
+    "code": "B.L",
+    "meaning": "Blacklisted"
+  },
+  {
+    "code": "O.B",
+    "meaning": "Open Blacklist"
+  },
+  {
+    "code": "F.U.P",
+    "meaning": "Free Update Promo"
+  },
+  {
+    "code": "N.U.P",
+    "meaning": "No Update Promo"
+  },
+  {
+    "code": "C.A",
+    "meaning": "Create Akun"
+  }
+  ],
+  "result": [
+    "Zidan ➠ 630k *(100 F.U + 530 A.F)*"
+  ]
+}

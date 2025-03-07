@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "ZidanDev",
+      "password": "Zidan"
+      }
+  ],
+  "blacklist": [
+    ""
+  ]
+}

@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "username": "ZidanDev",
+      "botNumbers": [
+        "62895354291993"
+      ]
+    }
+  ]
 }

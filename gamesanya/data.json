@@ -7,14 +7,11 @@
     {
       "username": "anugrah",
       "password": "anugrah006"
-    },
-    {
-      "username": "Zidan",
-      "password": "Zidan"
     }
   ],
   "blacklist": [
     "",
-    "anugrah"
+    "anugrah",
+    "Zidan"
   ]
 }

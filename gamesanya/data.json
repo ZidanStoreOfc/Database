@@ -10,9 +10,6 @@
     }
   ],
   "blacklist": [
-    "",
-    "anugrah",
-    "Zidan",
-    "ZidanDev2"
+    "anugrah"
   ]
 }
